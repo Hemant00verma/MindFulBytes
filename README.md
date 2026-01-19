@@ -15,6 +15,5 @@ https://mind-full-bytes-qv19.vercel.app/
 
 ## ✨ Features
 - Blog listing and detail pages
-- Resume showcase & download
 - Responsive design
 - Clean UI and component-based architecture
